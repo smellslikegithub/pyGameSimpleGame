@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZuOgpW5zclhGyqCvyNgGhBM4Yf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Core/Main.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -90,26 +94,26 @@
       <screen x="-1920" y="-81" width="1920" height="1050" />
     </state>
     <state x="-1180" y="199" key="FileChooserDialogImpl/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585685803426" />
-    <state width="1579" height="205" key="GridCell.Tab.0.bottom" timestamp="1586008580879">
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom" timestamp="1586009702954">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586008580879" />
-    <state width="1579" height="205" key="GridCell.Tab.0.center" timestamp="1586008580878">
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702954" />
+    <state width="1579" height="205" key="GridCell.Tab.0.center" timestamp="1586009702953">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586008580878" />
-    <state width="1579" height="205" key="GridCell.Tab.0.left" timestamp="1586008580878">
+    <state width="1579" height="205" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702953" />
+    <state width="1579" height="205" key="GridCell.Tab.0.left" timestamp="1586009702953">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586008580878" />
-    <state width="1579" height="205" key="GridCell.Tab.0.right" timestamp="1586008580879">
+    <state width="1579" height="205" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702953" />
+    <state width="1579" height="205" key="GridCell.Tab.0.right" timestamp="1586009702954">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586008580879" />
+    <state width="1579" height="205" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702954" />
     <state width="1579" height="280" key="GridCell.Tab.1.bottom" timestamp="1585772639084">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -126,10 +130,11 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1579" height="280" key="GridCell.Tab.1.right/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1585772639084" />
-    <state x="-1459" y="86" key="SettingsEditor" timestamp="1585685893446">
-      <screen x="-1920" y="-81" width="1920" height="1050" />
+    <state x="384" y="138" key="SettingsEditor" timestamp="1586009252988">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="-1459" y="86" key="SettingsEditor/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585685893446" />
+    <state x="384" y="138" key="SettingsEditor/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009252988" />
     <state x="371" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585772636597">
       <screen x="0" y="0" width="1600" height="870" />
     </state>

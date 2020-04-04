@@ -4,7 +4,8 @@ import os
 
 
 class MainCharacter(Player):
-    _image_library = ['playerPackage/images/MainCharacterWalk/']
+    _image_library = ['playerPackage/images/MainCharacterWalk/',
+                      'playerPackage/images/MainCharacterWalk/walkLeft/']
 
     def __init__(self):
 
@@ -20,8 +21,16 @@ class MainCharacter(Player):
             pygame.image.load(self._image_library[0] + 'w8.png'),
             pygame.image.load(self._image_library[0] + 'w9.png')
         ]
-        self._wal_animation_right - [
-            
+        self._walk_animation_right = [
+            pygame.image.load(self._image_library[1] + 'walkLeft1.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft2.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft3.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft4.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft5.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft6.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft7.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft8.png'),
+            pygame.image.load(self._image_library[1] + 'walkLeft9.png')
         ]
         self.__current_stage = 0
 
