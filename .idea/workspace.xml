@@ -94,26 +94,26 @@
       <screen x="-1920" y="-81" width="1920" height="1050" />
     </state>
     <state x="-1180" y="199" key="FileChooserDialogImpl/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585685803426" />
-    <state width="1579" height="205" key="GridCell.Tab.0.bottom" timestamp="1586009702954">
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom" timestamp="1586012367190">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702954" />
-    <state width="1579" height="205" key="GridCell.Tab.0.center" timestamp="1586009702953">
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586012367190" />
+    <state width="1579" height="205" key="GridCell.Tab.0.center" timestamp="1586012367190">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702953" />
-    <state width="1579" height="205" key="GridCell.Tab.0.left" timestamp="1586009702953">
+    <state width="1579" height="205" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586012367190" />
+    <state width="1579" height="205" key="GridCell.Tab.0.left" timestamp="1586012367189">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702953" />
-    <state width="1579" height="205" key="GridCell.Tab.0.right" timestamp="1586009702954">
+    <state width="1579" height="205" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586012367189" />
+    <state width="1579" height="205" key="GridCell.Tab.0.right" timestamp="1586012367190">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@-1920.-81.1920.1050" timestamp="1585691757456" />
-    <state width="1579" height="205" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586009702954" />
+    <state width="1579" height="205" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586012367190" />
     <state width="1579" height="280" key="GridCell.Tab.1.bottom" timestamp="1585772639084">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -139,37 +139,37 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="371" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1585772636596" />
-    <state x="463" y="182" key="search.everywhere.popup" timestamp="1585936441681">
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1586011157741">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="463" y="182" key="search.everywhere.popup/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1585936441681" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870/-1920.-81.1920.1050@0.0.1600.870" timestamp="1586011157741" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Core/Main.py</url>
-          <line>33</line>
+          <line>35</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Core/Main.py</url>
-          <line>36</line>
+          <line>38</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Core/Main.py</url>
-          <line>76</line>
+          <line>98</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Core/Main.py</url>
-          <line>53</line>
+          <line>61</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Core/Main.py</url>
-          <line>55</line>
+          <line>63</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
