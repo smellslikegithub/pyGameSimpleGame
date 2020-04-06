@@ -1,13 +1,12 @@
 __author__ = 'crimsonSurfer'
 
 import sys
-
 import pygame
-
+from Core.AssetCollection.Asset import Asset
 from Core.PlayerPackage.player import Player
 from Core.PlayerPackage.MainCharacter import MainCharacter
 
-displaySize = [500, 500]
+displaySize = [1000, 500]
 padding = 8
 level = {1, 2, 3}
 current_level = 0
@@ -15,8 +14,6 @@ walkCount = 0
 left = False
 right = True
 clock = pygame.time.Clock()
-
-background = pygame.image.load('playerPackage/images/Background/treeBg.png')
 
 
 def delay(time_in_milli_seconds):
@@ -73,9 +70,10 @@ def move_player(player, speed):
 
 def redraw_game_screen(screen, current_stage, player):
     global walkCount, left, right
+    asset = Asset()
     if player.get__current_stage() == 0:
-        screen.blit(background, (0, 0))  # redraws the background
-
+        screen.blit(asset.background, (0, 0))  # redraws the background
+        screen.blit(asset.background, (800, 0))
     if walkCount + 1 >= 27:
         walkCount = 0
     if left:
@@ -85,7 +83,7 @@ def redraw_game_screen(screen, current_stage, player):
         walkCount += 1
     elif right:
         list_right = player.get__walk_animation_right()
-        screen.blit(list_right[walkCount // 3],( player.x_position, player.y_position))
+        screen.blit(list_right[walkCount // 3], (player.x_position, player.y_position))
         walkCount += 1
     else:
         screen.blit((player.get__standing_animation()), (player.x_position, player.y_position))
